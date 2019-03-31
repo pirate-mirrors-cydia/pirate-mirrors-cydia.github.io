@@ -1,0 +1,8 @@
+Origin: Hollr2099.net Cydia Repo
+Label: Hollr2099.net Cydia Repo
+Suite: stable
+Version: 1.0
+Codename: hollr2099repo
+Architectures: iphoneos-arm
+Components: main
+Description: Hollr2099.net Cydia Repo - Mirror
