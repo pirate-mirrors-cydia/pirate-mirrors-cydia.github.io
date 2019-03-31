@@ -1,0 +1,405 @@
+Package: com.julioverne.cpfgen
+Section: Utilities
+Maintainer: Julio
+Architecture: iphoneos-arm
+Version: 0.1
+Depends: mobilesubstrate, preferenceloader
+Filename: ./files-deb/com.julioverne.cpfgen_0.1_iphoneos-arm.deb
+Size: 16136
+MD5sum: b31b7ee8ebdca5b22fc38101ca2ce9fb
+SHA1: b13e96c4cfb4ed948f861a18f10b9479d2aaf9d3
+SHA256: a7f9184d3f61031bdbe7089d5342e8fee0060d85e66492b31c7eecbddb973adc
+SHA512: fd54d39c6b8cc0900810e3bba6e31c1778eb8a168694f37554a1ea355da50e204f3aa2c6ffee0623e74007a4f96b31ef31418f3f503656d9a5968fe58f335ad1
+Description: Brazilian CPF Generator
+Name: CPFGen
+Author: julioverne <julioverne@me.com>
+Homepage: http://twitter.com/ijulioverne
+Icon: file:///Library/PreferenceBundles/CPFGen.bundle/icon@2x.png
+
+Package: com.julioverne.crackle-ads-remover
+Section: Tweaks
+Maintainer: Julio
+Architecture: iphoneos-arm
+Version: 1.1
+Depends: mobilesubstrate
+Filename: ./files-deb/com.julioverne.crackle-ads-remover_1.1_iphoneos-arm.deb
+Size: 12212
+MD5sum: 450ba53eb76cb20fbbbdff0b568aa42e
+SHA1: 2de79a0f5714d53ce7712d7ec5b0b62ef73dd14a
+SHA256: d1e5fd9b79a3553ececca8188d7b241b3d3410661d3c7c6d48535604fe547f23
+SHA512: 96cfb998158e4c93bff8a66f3ee6a7afb3f5ac56b30054bebde7a1aa252b0937e48402f10a385cc0b2f66b68a1dc948e7e215fd2cc9ce6bfb5c775f2f341d9d4
+Description: Remove ADs, Splash videos, Player Watermark from app Crackle (AppStore)
+Name: Crackle ADs Remover
+Author: julioverne
+Homepage: http://twitter.com/ijulioverne
+Icon: file:///Library/Application Support/Crackle ADs Remover/Icon.png
+
+Package: com.julioverne.cracktool2
+Section: Utilities
+Maintainer: Julio
+Architecture: iphoneos-arm
+Version: 2.3~beta9
+Depends: ldid (>= 1:1.2.1), sed, shell-cmds, system-cmds, uikittools (>= 1.1.4), coreutils-bin, coreutils
+Filename: ./files-deb/com.julioverne.cracktool2_2.3~beta9_iphoneos-arm.deb
+Size: 432216
+MD5sum: b6232b142ca7f8a19a7bcd726a2aedb3
+SHA1: 34e60cb540b16677387a59b8ab3002f6c0fb37cf
+SHA256: d35ec02515f76976e332e77d9eb3e7559f23f7f227a018a7fcd249c82c629f66
+SHA512: 8a6c44c5e11345ea7b4eacd0d662f708794d92587b94a8e3711564a55feffc40a3ba2d957621b805a2d0074c9ace4df529d406ee97dccb7d4347ee5611bf8a0a
+Description: Crack Tweaks on one click
+Name: CrackTool2
+Author: julioverne
+Homepage: http://twitter.com/ijulioverne
+
+Package: com.julioverne.cracktool
+Section: Utilities
+Maintainer: Julio
+Architecture: iphoneos-arm
+Version: 2.2
+Filename: ./files-deb/com.julioverne.cracktool_2.2_iphoneos-arm.deb
+Size: 182912
+MD5sum: a8e161316e4f7aeedce841a719ce439e
+SHA1: ae9c0aca364a89729bb8fbf50014a5466a2a28df
+SHA256: 424570dc1c2fd38c28c1fcaa3fe39f28371b3da014ee86670cd32ee91c7f2a45
+SHA512: b60a81579c32b7ebcfa1767193875726adbcbb0bf9b477b0596a1f1d64d750284d66fc60f9c1b21b6670ada21bd9b9de6469bbb2f6705f1c2d7b18f096133813
+Description: Crack Tweaks on one click
+Name: CrackTool
+Author: julioverne
+Homepage: http://twitter.com/ijulioverne
+
+Package: com.julioverne.cydiaenable
+Section: Tweaks
+Maintainer: Julio
+Architecture: iphoneos-arm
+Version: 3.9-2
+Depends: cydia (<=1.1.18), preferenceloader
+Pre-Depends: ldid (>= 1:1.2.1)
+Filename: ./files-deb/com.julioverne.cydiaenable_3.9-2_iphoneos-arm.deb
+Size: 68028
+MD5sum: 270e46e674ae944c9e28aa30bc4db286
+SHA1: 20e4534c4183841782b223817ddc25717c5ad7cb
+SHA256: 837085ebea73ae6837a0cafe70b70810fe88c25e9d6823d079bbc7d94d988c6f
+SHA512: a8faa2394596fd568e453fbae8594c775d0218d87e0f6599654f4e52e433a65d2c8188f0d8347a21cf0b8fecb4bbf02abcb32d5062e4c6b26bd5363e2bc4680c
+Description: Enable any Tweaks in Cydia App! Lets you to use any Tweak inside Cydia, iFile and others Apps running as root! Configure options from Settings.
+Name: Cydia Enable (Obsolete)
+Author: julioverne
+Homepage: http://twitter.com/ijulioverne
+Icon: file:///Library/PreferenceBundles/CydiaEnable.bundle/Icon.png
+
+Package: com.julioverne.netflixchecker
+Section: Utilities
+Maintainer: Julio
+Architecture: iphoneos-arm
+Version: 0.3a
+Filename: ./files-deb/com.julioverne.netflixchecker_0.3a_iphoneos-arm.deb
+Size: 59058
+MD5sum: f1da7d3a895e4e23402359699f6eeee1
+SHA1: 40d9cfb68caae5609e549eff8750aef68841b95e
+SHA256: 78470a9dfeb163545d476fe81ab03216a9e356045bb6dcac737a50b6cd2cbdbc
+SHA512: 54ccee48552a9e8cbdcdfd95484ec1316c6220b503c1b87720736a09a5ec9058c4c744a4faa83b89b823abc2be43031459a035a5e01c00e209faa640bafcd299
+Description: Netflix Account Checker. This is my mobile version is same thing as Windows version (Netflix Checker v0.2.2.exe) thats i have developed time ago.
+Name: NetflixChecker
+Author: julioverne
+Homepage: http://twitter.com/ijulioverne
+
+Package: com.julioverne.ccgen
+Section: Utilities
+Maintainer: Julio
+Architecture: iphoneos-arm
+Version: 0.4
+Filename: ./files-deb/com.julioverne.ccgen_0.4_iphoneos-arm.deb
+Size: 88220
+MD5sum: 54ad2e27ff9d09a7e9e9073ddb9f267a
+SHA1: 8a15f533c2a315202cf515731cb0b49e1a576c27
+SHA256: 47475453d7db666dde403fc48fcb9f38ffb0f2ea14a15bc46189a87bb5a413e3
+SHA512: a4830cf500834091a99f1f015dc7a11d7c43c878ffa94cd4413dd82c3c1f12d239fcff0d70498e30d44b831fb19ce66dd789fa2dc32e5cbfc8e5affeee6b880d
+Description: CC Generator App
+Name: CCGen
+Author: julioverne <julioverne@me.com>
+Homepage: http://twitter.com/ijulioverne
+Icon: file:///Applications/CCGen.app/AppIcon76x76~ipad.png
+
+Package: com.julioverne.dpkgcheck
+Section: Tweaks
+Maintainer: Julio
+Architecture: iphoneos-arm
+Version: 1.1
+Depends: mobilesubstrate
+Filename: ./files-deb/com.julioverne.dpkgcheck_1.1_iphoneos-arm.deb
+Size: 4082
+MD5sum: 1d138a9e207ea4554c7bfb2faed470da
+SHA1: d4b25fa66abb18361e3e63130f24b89ce154b40e
+SHA256: b11777e317c75847df9993da8daeee71dec47c61fa33d96caefbfe2ef487198e
+SHA512: bf7b2f70445a955aac9640036b28f6720a5aa6d9b4937ca4214f8e38691b1eb3a2ad3e5c2991ecd8afb19ce2f7522c7db71090ac78772f6628957166cbb597cd
+Description: Bypass verification dpkg info on tweaks Dpkg Check: bypass verification if tweaks is installed from unofficial source.
+Name: dpkg Check
+Author: julioverne
+Homepage: http://twitter.com/ijulioverne
+
+Package: com.julioverne.extendlife
+Section: Tweaks
+Maintainer: Julio
+Architecture: iphoneos-arm
+Version: 0.6
+Depends: mobilesubstrate
+Filename: ./files-deb/com.julioverne.extendlife_0.6_iphoneos-arm.deb
+Size: 367940
+MD5sum: 6b564a4dec96bec7e0a7f25555ffac75
+SHA1: 86a5389610e9624688153de5bf9f86d4064820c9
+SHA256: 7ac6fa3a0a07ad44b2da1b216f0a3658ceca6ea0d390b30d6e76632474bb83ca
+SHA512: 8c9874a0d230dd96f9b54b382e13b6f9f404aca9c6824b0ad602325600e72699e1c34d6563c877011eebcd905d3e8410dffb741accfababa1d15a57ac4b68144
+Description: Cydia Extender Install IPA Files Imported Inside App, Spoof TeamID, Auto Login, Revoke Certificates, Add New Device, Allow OTA Install, Backup to IPA Current Installed App, No Requires VPN Connection, Resign Current Installed App. Requires Cydia Extender App & AppSync
+Name: Extendlife
+Author: julioverne
+Homepage: http://twitter.com/ijulioverne
+
+Package: com.julioverne.cydown
+Section: Tweaks
+Maintainer: Julio
+Architecture: iphoneos-arm
+Version: 6.9.7
+Depends: cydia, coreutils-bin, coreutils, apt7, firmware (<< 8.3) | ldid (>= 1:1.2.1), mobilesubstrate, preferenceloader
+Filename: ./files-deb/com.julioverne.cydown_6.9.7_iphoneos-arm.deb
+Size: 1085390
+MD5sum: 7e923c276b894da812f3e775df72ffb7
+SHA1: 20784e92651d049dbed0f3c4ccd5f6cf0b20bd17
+SHA256: 14cf3ce759e0820b955b65026445ad6bb761f2c95e5830996874b1a2f855163d
+SHA512: 9707dc848c6ff387a1b1956a36e5e754e59d9a95fd28ec2fb46c5799194d26f8b70422f48b78231e7f2a179dcaf755c2962953b48b4ed536c17e41ca56570e04
+Description: Cydia Download Manager & Extra Features!
+Name: CyDown
+Author: julioverne <julioverne@me.com>
+Homepage: http://twitter.com/ijulioverne
+Depiction: http://julio.xarold.com/files-deb/cydown.html
+Icon: file:///Library/PreferenceBundles/CyDownSettings.bundle/CyDown@2x.png
+
+Package: com.julioverne.mobilegestaltfaker
+Section: Tweaks
+Maintainer: Julio
+Architecture: iphoneos-arm
+Version: 1.2
+Depends: mobilesubstrate, firmware (>= 7.0), applist
+Filename: ./files-deb/com.julioverne.mobilegestaltfaker_1.2_iphoneos-arm.deb
+Size: 99616
+MD5sum: 90daa7f7db8c51e110c1b6bda741fe29
+SHA1: cf67a40a7bff872ebf8e2ea56b4cc17e4b9d39ba
+SHA256: 9ee221613d1969a8b9e680072f0dcb9236781e68eb044f8daa3c742dc8ef5ef5
+SHA512: ea64a102a8088b6f8c424990f0cadf974a30ea693e91f4b70c6797caa9d55bfb3c3289325484144309d4e2705aaa5d26a9a69194df8a3aece49f75030a7f4f36
+Description: Fake udid, serial, mac and others on Apps MobileGestaltFaker Spoof more than 100 information from MobileGestalt on Applications running as mobile permissions.
+Name: MobileGestaltFaker
+Author: julioverne
+Homepage: http://twitter.com/ijulioverne
+Icon: file:///Applications/MGFakerApp.app/Icon.png
+
+Package: com.julioverne.napstelife
+Section: Tweaks
+Maintainer: Julio
+Architecture: iphoneos-arm
+Version: 0.2
+Depends: mobilesubstrate
+Filename: ./files-deb/com.julioverne.napstelife_0.2_iphoneos-arm.deb
+Size: 33772
+MD5sum: cedd71d95369d8d1c3ad5996a70b4fdc
+SHA1: 643ebacf6eda16acee009994361a336a992edd10
+SHA256: db21390c0fcd3657b0a0e68a594cfa591ff09aa6e36289408a4fd7875d27941d
+SHA512: 16d28f11d504028a62a759e6920fe749abc5ae0eb159f7303b96c1b68975803dfe698dae719935a62159c14ec2e55422a26c27778d96ad0b89c5ada95d196872
+Description: Napster/Rhapsody Fully Premium Features... Requires Napster/Rhapsody App (AppStore)
+Name: Napstelife
+Author: julioverne
+Homepage: http://twitter.com/ijulioverne
+
+Package: com.julioverne.pandolife
+Section: Tweaks
+Maintainer: Julio
+Architecture: iphoneos-arm
+Version: 0.7-0
+Depends: mobilesubstrate
+Filename: ./files-deb/com.julioverne.pandolife_0.7-0_iphoneos-arm.deb
+Size: 65288
+MD5sum: c124a9a212e22c090d1a931deffff520
+SHA1: 3c8af4401a82cde44ff73b72cc9350e2936c24f0
+SHA256: 934beb0e4ed89c66dae7a7cf5c60477a81a0ed10bf468f898acd79299fa783fc
+SHA512: ac7ef4ef15e7bb1b07a55e78fbb14b79f3daa90cc1d6dbf5eec18bef7dbdaaa3146919b8d5f8d60ea58e033159e685f08f2ccb12ea92bb87abc7f80e796d4543
+Description: Pandora No ADs, Unrestrict Country, Downloads, High Quality Stream, Unlimited Skips, No delay Button Skip, No 180 minutes timeout... Requires Pandora App (AppStore)
+Name: Pandolife
+Author: julioverne
+Homepage: http://twitter.com/ijulioverne
+
+Package: com.julioverne.saavlife
+Section: Tweaks
+Maintainer: Julio
+Architecture: iphoneos-arm
+Version: 0.2
+Depends: mobilesubstrate
+Filename: ./files-deb/com.julioverne.saavlife_0.2_iphoneos-arm.deb
+Size: 19306
+MD5sum: 61bf4da4db2b1fd4bbc2d6921caea266
+SHA1: b4121782c9df2ce391d3822709fdba6bed137fd8
+SHA256: 3cad224b068cf58f2448af2b94023fcb253b049545890640410393c0b4debabb
+SHA512: 435eafa6899ca36805b0075ce90126e637f7f608e1b4855233dfcdf4ef8e1431b037083221f6c6642cff3ff4cee395a5fceea6bce85c0f2c8ca7e4fa7ed3cbb7
+Description: Saavn Fully Premium Features... Requires Saavn App (AppStore)
+Name: Saavlife
+Author: julioverne
+Homepage: http://twitter.com/ijulioverne
+
+Package: com.julioverne.scloudlife
+Section: Tweaks
+Maintainer: Julio
+Architecture: iphoneos-arm
+Version: 0.8a
+Depends: mobilesubstrate
+Filename: ./files-deb/com.julioverne.scloudlife_0.8a_iphoneos-arm.deb
+Size: 27024
+MD5sum: a959a43c0cc93bbdee4f5a1b94723235
+SHA1: e19d3e2e84aaa8930d55563c6e25963d4a434146
+SHA256: 6fa8c6fa84a77f77f481fe96e85ac0289b8fde63faa175a4f948a34b3a559f56
+SHA512: 4c708c6668fe72a293bdd2c3ea09795e1e53318db1c27432843d721b1b86d33fc0ec817683cf1387b7d7fb08f04741b6725edcb86fb6df335a7d714a68175a01
+Description: SoundCloud Fully Premium Features, Unrestrict Country... Requires SoundCloud App (AppStore)
+Name: SCloudlife
+Author: julioverne
+Homepage: http://twitter.com/ijulioverne
+
+Package: com.julioverne.twbotlife
+Section: Tweaks
+Maintainer: Julio
+Architecture: iphoneos-arm
+Version: 0.4
+Depends: mobilesubstrate
+Filename: ./files-deb/com.julioverne.twbotlife_0.4_iphoneos-arm.deb
+Size: 28728
+MD5sum: ce982a8fa00e7e6709fce126a14f2ef8
+SHA1: 6fec74982aeab87e2c9698037fbffb2778c01dcb
+SHA256: eb3935d3b93049ea41ed27e81ddd81a1fe6dabb527d266e53a7efaff47670ff2
+SHA512: bb2fb9a580789c152461cddb37f9dea71a001a900bd4ce793cd20e66952131a3ae1e08816ed2b8b9f7afd65dd02c26bb7d4aebfed7ad4aabc5da68bdda7f0fc1
+Description: Tweetbot 3/4 Hack Access... Requires Tweetbot 3/4 App (AppStore)
+Name: TWBotlife
+Author: julioverne
+Homepage: http://twitter.com/ijulioverne
+
+Package: com.julioverne.ytmusilife
+Section: Tweaks
+Maintainer: Julio
+Architecture: iphoneos-arm
+Version: 0.2
+Depends: mobilesubstrate
+Filename: ./files-deb/com.julioverne.ytmusilife_0.2_iphoneos-arm.deb
+Size: 29608
+MD5sum: 90eb86c9a64179c0669cff2db7672125
+SHA1: 01f7ade819466708cff0a2324ad7482c1af5deed
+SHA256: 0586149f2fc137da63449ca68719b4055ce34ec1ab887ea311a4c29251461bab
+SHA512: 94a1e264f2c255e1001fbfbd525c230e652ffa2a35544472fa1b17c6b0a4913a7b362e5396d30999b91b22dbc54bc01a82c7e509f543778236f4e767ab07a909
+Description: YouTube Music No ADs, Background Playback, Only Audio Mode, Unrestrict Country... Requires YouTube Music App (AppStore)
+Name: YTMusilife
+Author: julioverne
+Homepage: http://twitter.com/ijulioverne
+
+Package: net.angelxwind.appsyncunified
+Section: Tweaks
+Installed-Size: 256
+Maintainer: Karen／明美 (angelXwind) <angelXwind@angelxwind.net>
+Architecture: iphoneos-arm
+Version: 6.0.2
+Replaces: us.hackulo.appsync50
+Provides: appsync
+Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5100), firmware (<< 11.0)
+Conflicts: us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.appsync7, com.teiron.ppsync, appsync50plus2.25pp, com.linusyang.appsync, com.sull.appsyncunified, com.sull.appsyncunifiedbeta, com.xsellize.appsync50, com.xsellize.appsync50plus, appsync50plus.178, appsync50plus2.178
+Filename: ./files-deb/net.angelxwind.appsyncunified_6.0.2_iphoneos-arm.deb
+Size: 28752
+MD5sum: f2c58a47e4480be400e638aa14423b83
+SHA1: a6f109be204763eaa6361bbb72adc25dc9bc9703
+SHA256: 33989769397012285fed1c2120b93f22123a35f142cc70d724c3487437844c89
+SHA512: 3ea957afca4502e02e1fa2a527709ac0f4d89287b77c357def6e97c5dc7f385cbb7b670a61d079b2ceff4169d3c69beb812bd2560a0755fe8b8970991dcfc81b
+Description: Enables the ability to install unsigned/fakesigned iOS applications.
+Depiction: https://cydia.angelxwind.net/?page/net.angelxwind.appsyncunified
+Homepage: http://cydia.angelxwind.net/
+Name: AppSync Unified
+Author: Linus Yang, Karen／明美 <angelXwind@angelxwind.net>
+
+Package: com.julioverne.deezelife
+Section: Tweaks
+Maintainer: Julio
+Architecture: iphoneos-arm
+Version: 0.5
+Depends: mobilesubstrate
+Filename: ./files-deb/com.julioverne.deezelife_0.5_iphoneos-arm.deb
+Size: 46254
+MD5sum: b28403c64ad363a0cb13f69fecbc84b9
+SHA1: f10f9c62360f5a7dbf21a8599754bc062f84c65b
+SHA256: 96b607ea2137f409d32a74138d815e903bc1224a67ce0385a98a708eaaf148b9
+SHA512: 95facb51282fffe2865da7eca6a7e86e2ae31cabf70b470fda788eb2c8650202dd9dc088bbda61e7384a0ad328a711f7d461d08b8acb98f37ff993613a83fd53
+Description: Deezer Fully Premium Features, Unrestrict Music... Requires Deezer App (AppStore)
+Name: Deezelife
+Author: julioverne
+Homepage: http://twitter.com/ijulioverne
+
+Package: com.julioverne.spotilife
+Section: Tweaks
+Maintainer: Julio
+Architecture: iphoneos-arm
+Version: 1.0
+Depends: mobilesubstrate
+Filename: ./files-deb/com.julioverne.spotilife_1.0_iphoneos-arm.deb
+Size: 82874
+MD5sum: 4ed73de019364ba12201d1fed0e8c116
+SHA1: fb6d08dc1b065dde119bd09f1f8c3c06a5d842cc
+SHA256: a73d28f73e4c07eb4c69842e9e313d86f4b6b105dab5fefaae088adb6cc81fd5
+SHA512: 607870a45e4bca010c61bc1fecc5808fbcec678898e86249d18072df59d795ee3176bceff2e9fdca9e7b1fc4371ac9af46b952830ef66c50ab53eb60da2f44e4
+Description: Spotify Unlimited Skips, Remove ADs, Extreme Quality Stream Unlocked... Requires Spotify App (AppStore)
+Name: Spotilife
+Author: julioverne
+Homepage: http://twitter.com/ijulioverne
+
+Package: com.julioverne.cracktool3
+Section: Utilities
+Maintainer: Julio
+Architecture: iphoneos-arm
+Version: 3.0~beta11
+Depends: ldid (>= 1:1.2.1), sed, shell-cmds, system-cmds, uikittools (>= 1.1.4), coreutils-bin, coreutils, odcctools
+Filename: ./files-deb/com.julioverne.cracktool3_3.0~beta11_iphoneos-arm.deb
+Size: 165344
+MD5sum: 454aebaeb99805d2419c1a6672c75b17
+SHA1: 871a5696285d7fac46c213d5ed88ae7d4ffb8028
+SHA256: df4cfb79e237215fa1afe3e4ff42e74d6ac7a60cc6bc0740cb66205b7c7258c1
+SHA512: 810fcf7f069c6ccc3c00291ec2f3c9514543ea5f7e3ae46fb9ec14c678fbbaa8f5fdadea686d2fc4efbb22ad342a05e786d9c1fbeff93e0f9eaed37e97ef4bfe
+Description: Crack Tweaks On 1 Touch. arm64. Any Issue Try Reinstall and/or Run CT3 In Safe Mode.
+Name: CrackTool3 (iOS 11)
+Author: julioverne
+Homepage: http://twitter.com/ijulioverne
+
+Package: com.julioverne.mboxlife
+Section: Tweaks
+Maintainer: Julio
+Architecture: iphoneos-arm
+Version: 0.2
+Depends: mobilesubstrate
+Filename: ./files-deb/com.julioverne.mboxlife_0.2_iphoneos-arm.deb
+Size: 16792
+MD5sum: f5dbb26e1dafd0d3818341cccebab613
+SHA1: 97895a13e28d34cfea27a8e9225d11655b161f10
+SHA256: b024407f57eb618d04eb2d9d77bec1cdaac4d98b9569ddc58eaa782245f20605
+SHA512: 74391b448d95cdd5aa3093203e40180b6f83fa2ffd6e8d15fa5cd405c1a9eb33142a680061a29f6db2c5a3afe2e8be10d00d817ddc8c0f9f745433ea8db0f264
+Description: Movie Box 3 No ADs... Requires Movie Box 3 App
+Name: MBoxlife
+Author: julioverne
+Homepage: http://twitter.com/ijulioverne
+
+Package: eu.teggers.netKillUI11
+Section: Tweaks
+Maintainer: Teggers
+Architecture: iphoneos-arm
+Version: 0.2.1-1
+Depends: adv-cmds, grep, network-cmds, shell-cmds, gawk, coreutils, firmware (>= 11.0)
+Conflicts: eu.teggers.netKillUI
+Filename: ./files-deb/eu.teggers.netKillUI11_0.2.1-1_iphoneos-arm.deb
+Size: 813540
+MD5sum: d2d10565d92f8853eb0577f8547e2ed6
+SHA1: 39b9f468e90f033daad362c53aa864042777bc57
+SHA256: 848063d1955fffe38e99217b5eecb298d10979a63635b0578ff441c54f599e33
+SHA512: 48816b6b9ab48555a905cc8b0cd8c22aebca28f7742c26204a68412527f7eb8f1b2d6b9f9e49f302b2f2859d4df4e8d680753f29234f6905314dc4c862ed6f5f
+Description: GUI for arp-scan and arp-spoof. 
+ Unofficial Release.
+ Contains: arp-scan, arpspoof, libnet.
+ Compatible With Electra, arm64.
+ Based in netKillUIbeta version 0.2.1-1
+Name: netKillUIbeta (iOS 11)
+Author: Teggers
+
